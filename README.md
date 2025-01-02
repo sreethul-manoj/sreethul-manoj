@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sreethul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zanjay" height="30" width="40" /></a>
-<a href="https://instagram.com/__sreethul__manoj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="z.a.n.j.a.y" height="30" width="40" /></a>
-<a href="https://discord.gg/sreethulmanoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sanjay000450" height="30" width="40" /></a>
+<a href="https://instagram.com/__sreethul__manoj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sreethul__manoj_" height="30" width="40" /></a>
+<a href="https://discord.gg/sreethulmanoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sreethulmanoj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
