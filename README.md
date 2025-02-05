@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm SREETHUL MANOJ</h1>
 <h3 align="center">A passionate Electronics and Communication Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zanjay7&label=Profile%20views&color=0e75b6&style=flat" alt="zanjay7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreethul-manoj&label=Profile%20views&color=0e75b6&style=flat" alt="sreethul-manoj" /> </p>
 
 - 🌱 I’m currently learning **Python and Django**
 
@@ -17,9 +17,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zanjay7&show_icons=true&locale=en&layout=compact" alt="zanjay7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreethul-manoj&show_icons=true&locale=en&layout=compact" alt="sreethul-manoj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zanjay7&show_icons=true&locale=en" alt="zanjay7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreethul-manoj&show_icons=true&locale=en" alt="sreethul-manoj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zanjay7&" alt="zanjay7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreethul-manoj&" alt="sreethul-manoj" /></p>
 
