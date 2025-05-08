@@ -1,50 +1,54 @@
 <h1 align="center">Hi 👋🏻, I'm Sreethul Manoj</h1>
-<h3 align="center">🚀 Passionate Electronics and Communication Engineer from India</h3>
+<h3 align="center">🚀 Electronics and Communication Engineer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sreethul-manoj&label=Profile%20views&color=0e75b6&style=flat" alt="sreethul-manoj" />
 </p>
 
-- 🌱 I’m currently learning **Python** & **Django**
-- 📫 Reach me on Instagram: [@__sreethul__manoj_](https://www.instagram.com/__sreethul__manoj_)
+---
+
+### 🌱 About Me
+
+- 🔭 Currently diving into **Python** & **Django**
+- 🎓 Electronics & Communication Engineering Grad
+- 🌐 Connect with me on:
+  [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sreethul)
+  [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/__sreethul__manoj_)
+  [<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/sreethulmanoj)
 
 ---
 
-### 🔗 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/sreethul" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/__sreethul__manoj_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/sreethulmanoj" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+### 🧰 Tech Stack & Tools
 
----
-
-### 🛠️ Languages & Tools:
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <!-- Add more icons as you learn new tools -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreethul-manoj&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sreethul-manoj&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreethul-manoj&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreethul-manoj&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreethul-manoj&theme=tokyonight" width="70%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreethul-manoj&" alt="GitHub Streak" />
+---
+
+### 🚀 Fun Fact
+
+🧠 I believe in *learning by doing* – I love turning code into cool things.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </p>
